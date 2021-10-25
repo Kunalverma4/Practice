@@ -5,6 +5,7 @@ This is for practice
 ## Cloneing this to Local machine
 
 * Commands used 
+* git clone git@github.com:kunalvemra0412/Practice.git
 * git checkout -b new
 * Git add .
 * git status
