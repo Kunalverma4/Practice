@@ -2,7 +2,7 @@
 
 This is for practice
 
-## Cloneing this to Local machine
+## Cloning this to Local machine
 
 * Commands used 
 * git clone git@github.com:kunalvemra0412/Practice.git
